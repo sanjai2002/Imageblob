@@ -1,0 +1,6 @@
+@Imagestore_HostAddress = http://localhost:5130
+
+GET {{Imagestore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
